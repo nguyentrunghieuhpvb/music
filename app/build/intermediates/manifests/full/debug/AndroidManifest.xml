@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.framgia.nguyenson.music_19"
+    package="com.nthieu.music_19"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -21,17 +21,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar" >
-        <activity android:name="com.framgia.nguyenson.music_19.screen.main.MainActivity" >
+        <activity android:name="com.nthieu.music_19.screen.main.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.framgia.nguyenson.music_19.screen.music.MusicActivity" />
+        <activity android:name="com.nthieu.music_19.screen.music.MusicActivity" />
 
         <service
-            android:name="com.framgia.nguyenson.music_19.service.MusicService"
+            android:name="com.nthieu.music_19.service.MusicService"
             android:enabled="true"
             android:exported="true" />
     </application>

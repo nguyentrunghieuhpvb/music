@@ -27,7 +27,7 @@ INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xm
 INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:2:1-31:12
 INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:3:5-45
+		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -74,10 +74,10 @@ MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nguye\.gradle\caches\t
 		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:15:9-56
-activity#com.framgia.nguyenson.music_19.screen.main.MainActivity
+activity#com.nthieu.music_19.screen.main.MainActivity
 ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:16:19-59
+		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:16:19-78
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -88,18 +88,18 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
 		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:20:27-74
-activity#com.framgia.nguyenson.music_19.screen.music.MusicActivity
-ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:23:9-64
+activity#com.nthieu.music_19.screen.music.MusicActivity
+ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:23:9-83
 	android:name
-		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:23:19-61
-service#com.framgia.nguyenson.music_19.service.MusicService
+		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:23:19-80
+service#com.nthieu.music_19.service.MusicService
 ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:25:9-28:39
 	android:enabled
 		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:27:13-35
 	android:exported
 		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml:26:13-68
 uses-sdk
 INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Program Files\androdi prj\Music\app\src\main\AndroidManifest.xml

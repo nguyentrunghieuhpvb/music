@@ -18,7 +18,7 @@
             android:layout_height="match_parent"
             android:background="@color/colorWhite">
 
-            <com.framgia.nguyenson.music_19.widget.CustomImageView
+            <com.nthieu.music_19.widget.CustomImageView
                 android:id="@+id/image_music"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
